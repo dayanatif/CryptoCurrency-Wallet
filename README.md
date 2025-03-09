@@ -25,7 +25,6 @@ g++ crypto_wallet.cpp -o crypto_wallet
 ./crypto_wallet
 
 
-
 ⸻
 
 Usage
