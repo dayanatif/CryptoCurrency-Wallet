@@ -1,4 +1,4 @@
-# **Phantom Cryptocurrency Wallet**  
+# **Phantom Cryptocurrency Wallet**
 
 A simple **C++ cryptocurrency wallet** that allows users to **buy, sell, transfer** cryptocurrencies and view their portfolio. The program generates **random crypto prices** and supports authentication for multiple users.  
 
