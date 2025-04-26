@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
-#include <ctime>      //2023F-BCE-249
-using namespace std; //2023F-BCE-250
+#include <ctime>     
+using namespace std; 
 
 // Function declarations
 void cryptoPrices(double &bitcoinPrice, double &ethereumPrice, double &ripplePrice, double &renderPrice, double &solanaPrice);
